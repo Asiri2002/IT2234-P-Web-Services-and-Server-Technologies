@@ -14,7 +14,8 @@ Each practical demonstrates core programming logic using JavaScript, including *
 A simple yet classic **"Hello, World!"** implementation to kick things off.  
 
 📌 **Output Preview:**  
-![Hello World Output](https://github.com/user-attachments/assets/524d85a2-bd9c-44e7-8888-66514638bc5d)  
+
+![image](https://github.com/user-attachments/assets/4ea62df5-e037-4f55-9e35-feb8df99b5d6)
 
 ---
 
